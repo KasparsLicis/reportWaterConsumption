@@ -1,4 +1,4 @@
-# waterConsumptionReporting
+
 Script provides automatic consumption reporting to Rīgas namsaimnieks web portal
 
 Script is designed to login to the portal (https://e-parvaldnieks.lv/), read previous consumption, add defined consumption and submit the results.
